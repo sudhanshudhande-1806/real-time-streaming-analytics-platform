@@ -196,12 +196,6 @@ class I1,I2,I3,I4 infra
 
 ---
 
-## 🏗 System Architecture
-
-![Architecture](screenshots/architecture.png)
-
----
-
 ## 📡 Kafka Streaming Pipeline
 
 ![Kafka Terminal](screenshots/kafka-terminal.png)
