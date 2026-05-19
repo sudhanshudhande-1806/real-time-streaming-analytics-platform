@@ -186,12 +186,39 @@ class I1,I2,I3,I4 infra
 
 ---
 
-# 📸 Dashboard Preview
+# 📸 Project Screenshots
 
-## ⚡ NeuralStreamX Real-Time Dashboard
+---
+
+## ⚡ NeuralStreamX Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
 
+---
+
+## 🏗 System Architecture
+
+![Architecture](screenshots/architecture.png)
+
+---
+
+## 📡 Kafka Streaming Pipeline
+
+![Kafka Terminal](screenshots/kafka-terminal.png)
+
+---
+
+## 🐘 PostgreSQL Streaming Data
+
+![PostgreSQL](screenshots/postgres-data.png)
+
+---
+
+## 🐳 Docker Infrastructure
+
+![Docker Containers](screenshots/docker-containers.png)
+
+---
 ---
 
 # 📊 Dashboard Features
